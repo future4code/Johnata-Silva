@@ -1,0 +1,10 @@
+//Exercicio 1
+// o console.log de cima sera 10
+// o debaixo sera 10, 5
+
+//Exercício2
+//console.log(10, 10, 10)
+
+//Exercício3
+//let horasTrabalhadas
+//let diaRecebido
