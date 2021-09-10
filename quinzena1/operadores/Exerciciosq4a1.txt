@@ -1,0 +1,10 @@
+Exercício 1)
+
+a) false
+b) false
+c) true
+d) boolean
+
+Exercício 2-3) 
+
+Inserir o number antes do prompt para que o mesmo seja convertido em numero.
