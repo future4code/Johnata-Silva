@@ -1,0 +1,13 @@
+Exercício 1
+
+a.Undefined
+b.null
+c.11
+d.0
+e.20
+f.6
+
+Exercício 2
+
+SUBI NUM ÔNIBUS EM MIRROCOS 27
+
