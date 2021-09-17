@@ -1,0 +1,13 @@
+Exercício 1
+
+A) 10 e 50
+
+B) Nada
+
+Exercício 2
+
+A) Essa funçao retorna o texto em letras minusculas e inclui a palavra cenoura.
+
+B) Eu gosto de cenoura
+   cenoura é bom pra vista
+   Cenouras crescem na terra
