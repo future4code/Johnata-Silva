@@ -1,0 +1,27 @@
+1A) Matheus Nachtergaele
+    Virginia Cavendish
+
+canal: "Globo"
+horario: "14h"
+**********************************
+
+2A) idade: 3
+   nome: Juca
+   raça: SRD
+
+   idade: 3
+   nome: Juba
+   raça: SRD
+
+   idade: 3
+   nome: Jubo
+   raça: SRD
+
+B) Spread copia e altera um objeto para outro
+
+**************************************
+
+3A) False
+
+B) Não consta a propriedade altura.
+
